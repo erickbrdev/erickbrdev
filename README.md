@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Erick<h1>
+<h3><i>Olá! Eu sou o Erick</i><h3>
 
 <h4>Meu linkedIn </h4>
 <a target="_blank" href="https://www.linkedin.com/in/erick-andrade-76a960241/">
