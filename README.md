@@ -1,16 +1,15 @@
-### Hi there 👋
+Olá! Eu sou o Erick
 
-<!--
-**Erick-Andrade-Dev/Erick-Andrade-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" href="https://www.linkedin.com/in/erick-andrade-76a960241/">
+  <img target="_blank" alt="Linkedin de Erick Andrade" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+</a>
 
-Here are some ideas to get you started:
+<img width="300px" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p><strong> Linguagens </strong> 💻 </p>
+
+ <img width="50px" disabled="disabled" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+ <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+ <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
+ <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
