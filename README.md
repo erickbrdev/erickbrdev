@@ -1,6 +1,5 @@
-<h3><i>Olá! Eu sou o Erick</i><h3>
+<h3><i>Olá! Eu sou o Erick.</i><h3>
 
-<h3>👇🏽 Este é meu linkedIn. </h3>
 <a target="_blank" href="https://www.linkedin.com/in/erick-andrade-76a960241/">
   <img target="_blank" alt="Linkedin de Erick Andrade" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
