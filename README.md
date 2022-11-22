@@ -1,5 +1,7 @@
 <h3><i>Olá! Eu sou o Erick.</i><h3>
     
+<p>Atualmente estou cursando o JavaScritp Masterclass <a target="_blank" href="https://app.branas.io/public/products/c09d58ff-ce6b-491b-b158-9982583dff79">branas.io</p>  
+    
 <a target="_blank" href="https://www.linkedin.com/in/erick-andrade-76a960241/">
   <img target="_blank" alt="Linkedin de Erick Andrade" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
