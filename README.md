@@ -1,7 +1,7 @@
 <h3><i>Olá! Eu sou o Erick 😃</i><h3>
 
 * 💻: Atualmente estou estudando Full-Stack JavaScript na OneBitCode.
-* 🎓: Conclui o curso JavaScript MasterClass na AgileCode no período entre 01/11/2022 - 20/12/20022
+* 🎓: Conclui o curso JavaScript MasterClass na AgileCode (01/11/2022 - 20/12/2022)
 * 🎹: Sou tecladista nas horas vagas, mas somente por diversão.
 
 <h3 align="left">Conecte-se comigo:</h3>
@@ -20,7 +20,8 @@
  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
  <img width="50px"src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/reactjs_j5WbdQuuJ.png"/> 
  <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
-  
+ <br>
+ <br>
  </span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickbrdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
