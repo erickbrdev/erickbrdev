@@ -2,7 +2,7 @@
 
 * 💻: Atualmente estou estudando Full-Stack JavaScript na OneBitCode.
 * 🎓: Conclui o curso JavaScript MasterClass na AgileCode (01/11/2022 - 20/12/2022)
-* 🎹: Sou tecladista nas horas vagas, mas somente por diversão.
+* 🎹: Tecladista por diversão
 
 <h3 align="left">Conecte-se comigo:</h3>
 <a target="_blank" href="https://www.linkedin.com/in/erick-andrade-76a960241/">
