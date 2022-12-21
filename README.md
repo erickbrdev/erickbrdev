@@ -1,8 +1,8 @@
-<h3><i>Olá! Eu sou o Erick.</i><h3>
+<h3><i>Olá! Eu sou o Erick 😃</i><h3>
 
-* :computer: Atualmente estou estudando Full-Stack JavaScript na OneBitCode.
-* :computer: Conclui o curso JavaScript MasterClass na AgileCode no período entre 01/11/2022 - 20/12/20022
-* :music: Sou tecladista nas horas vagas, mas somente por diversão.
+* 💻: Atualmente estou estudando Full-Stack JavaScript na OneBitCode.
+* 🎓: Conclui o curso JavaScript MasterClass na AgileCode no período entre 01/11/2022 - 20/12/20022
+* 🎹: Sou tecladista nas horas vagas, mas somente por diversão.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <a target="_blank" href="https://www.linkedin.com/in/erick-andrade-76a960241/">
@@ -22,3 +22,5 @@
  <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
   
  </span>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickbrdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
