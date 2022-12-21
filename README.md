@@ -22,5 +22,5 @@
  <code><img heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code> 
   
  </span>
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickbrdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
