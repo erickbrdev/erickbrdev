@@ -3,7 +3,7 @@
 * 💻: Cursando Full-Stack JavaScript na OneBitCode.
 * 🎓: Conclui o curso JavaScript MasterClass na AgileCode.
 * 🎹: Tecladista por diversão.
-* 📚: Gosto de ler livros de autoajuda.
+* 📚: Gosto de ler livros de desenvolvimento pessoal.
   
 
 <h3 align="left">Conecte-se comigo: https://erickbrdev.github.io/portifolio/#/ </h3>
