@@ -23,6 +23,7 @@
  <img width="50px"src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/reactjs_j5WbdQuuJ.png"/>  
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> 
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
    
  
  <br>
