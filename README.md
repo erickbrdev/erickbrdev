@@ -29,5 +29,4 @@
  <br>
  <br>
  </span>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?erickbrdev=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
