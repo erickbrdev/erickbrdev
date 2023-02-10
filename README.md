@@ -12,9 +12,6 @@
 </a>
 <br>
 <br>
-
-<img width="300px" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
-<br>
 <p><strong> Linguagens e ferramentas</strong> 💻 </p>
 <span>
  <img width="50px" disabled="disabled" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
