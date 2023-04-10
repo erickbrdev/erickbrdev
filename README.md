@@ -14,8 +14,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/erickbrdev">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=erickbrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?         username=erickbrdev&layout=compact&langs_count=16&theme=dracula"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=erickbrdev&show_icons=true&theme=night&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 <p><strong> Linguagens e ferramentas</strong> 💻 </p>
