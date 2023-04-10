@@ -12,6 +12,12 @@
 </a>
 <br>
 <br>
+<div align="center">
+  <a href="https://github.com/erickbrdev">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=erickbrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?         username=erickbrdev&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<br>
 <p><strong> Linguagens e ferramentas</strong> 💻 </p>
 <span>
  <img width="50px" disabled="disabled" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
