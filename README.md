@@ -12,10 +12,10 @@
 </a>
 <br>
 <br>
-<div align="center" style={display: "flex", alignItems:"center", justifyContent:"center"}>
+<div align="center">
   <a href="https://github.com/erickbrdev">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=erickbrdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbrdev&layout=compact&langs_count=16&theme=dark"/>
+    <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbrdev&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
 <p><strong> Linguagens e ferramentas</strong> 💻 </p>
