@@ -6,7 +6,7 @@
 * 📚: Gosto de ler livros de desenvolvimento pessoal.
   
 
-<h3 align="left">Conecte-se comigo: https://erickbrdev.github.io/portifolio/#/ </h3>
+<h3 align="left">Conecte-se comigo: https://linktr.ee/erick.dev </h3>
 <a target="_blank" href="https://www.linkedin.com/in/erick-andrade-76a960241/">
   <img target="_blank" alt="Linkedin de Erick Andrade" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
